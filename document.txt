@@ -1,0 +1,23 @@
+NAME: MADHAVI SHAJI
+DATE: 27.02.2026
+DESCRIPTION : IMPLEMENTATION OF MINISHELL
+SAMPLE I/O:
+
+-----------------------------------------
+       Welcome to MINISHELL
+-----------------------------------------
+myshell> pwd
+/home/madhavi/A/LI/PROJ/MINISHELL
+myshell> ls -l | wc
+myshell>       9      74     472
+ls -l
+total 60
+-rwxr-xr-x 1 madhavi madhavi 26616 Feb 27 23:15 a.out
+-rw-r--r-- 1 madhavi madhavi  6751 Feb 27 23:01 commands.c
+-rw-r--r-- 1 madhavi madhavi    93 Feb 27 23:15 document.txt
+-rw-r--r-- 1 madhavi madhavi  1153 Feb 25 19:19 ext_cmds.txt
+-rw-r--r-- 1 madhavi madhavi  1666 Feb 25 18:48 header.h
+-rw-r--r-- 1 madhavi madhavi  1467 Feb 25 17:42 list.c
+-rw-r--r-- 1 madhavi madhavi   475 Feb 25 19:15 main.c
+-rw-r--r-- 1 madhavi madhavi  2905 Feb 27 23:11 scan_input.c
+myshell>
